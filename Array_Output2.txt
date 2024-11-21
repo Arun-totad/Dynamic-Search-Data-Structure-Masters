@@ -1,0 +1,50 @@
+runfile('C:/Users/Arun Totad/Desktop/PA1_Solution.py', wdir='C:/Users/Arun Totad/Desktop')
+********************************************************
+CS5115: Programming for Graduate Student : PA 1 Solution
+********************************************************
+
+----------Dataset fetched successfully-----------
+Dataset -->  C:/Users/Arun Totad/Desktop/CS5115/Assignment assets/PA1/PA1_cs5115_Totad_092424/EOWL_200 shuffled.txt 
+
+Total size of Dataset:  200
+Elements of list =  together  ->  girl  ->  hour  ->  town  ->  multiply
+********************************************************
+
+Select type of dataset for processing: 
+ A) Array Implementation 
+ B) List Implementation 
+A
+-----------Demonstrating Array Data Structure-----------
+
+Increament by 2
+***************
+Current size of list:  200
+Time elapsed:  0.0  seconds
+Elements of list =  able  ->  fall  ->  mind  ->  simple  ->  young
+********************************************************
+
+Strategy A: Increment by 10
+***************************
+Current size of list:  200
+Time elapsed:  0.0  seconds
+Elements of list =  able  ->  fall  ->  mind  ->  simple  ->  young
+********************************************************
+
+Strategy B: Increment by Doubling
+*********************************
+Current size of list:  200
+Time elapsed:  0.0  seconds
+Elements of list =  able  ->  fall  ->  mind  ->  simple  ->  young
+********************************************************
+
+Strategy C: Increment by fibonacci series
+*****************************************
+Current size of list:  200
+Time elapsed:  0.0  seconds
+Elements of list =  able  ->  fall  ->  mind  ->  simple  ->  young
+********************************************************
+Lets insert an element into the list
+Enter the new word that needs to be inserted into the array: mind
+Index number found for the new element insertion:  0
+
+Item already exist in the array
